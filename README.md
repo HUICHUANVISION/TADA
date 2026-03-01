@@ -1,8 +1,8 @@
-# TADA: Trustworthy Automated Data Augmentation
+# TADA：Target-Aware Data Augmentation (TADA) for Cross-Project Defect Prediction
 
 ## Overview
 
-This repository contains the official implementation of **TADA** (Trustworthy Automated Data Augmentation), a robust automated data augmentation framework for machine learning.
+This repository contains the official implementation of **TADA** (Target-Aware Data Augmentation (TADA) for Cross-Project Defect Prediction), a robust automated data augmentation framework for machine learning.
 
 ## Paper
 
