@@ -20,20 +20,6 @@ If you use this work in your research, please cite our paper.
 pip install -r requirements.txt
 ```
 
-## Usage
-
-### Running TADA Experiments
-
-```bash
-python core/run_TADA_experiment.py
-```
-
-### Running HDP Experiments
-
-```bash
-python core/run_HDP_experiment.py
-```
-
 ## Repository Structure
 
 ```
@@ -41,8 +27,6 @@ TADA_Public_Release/
 ├── TADA_Paper.pdf          # Main paper
 ├── core/                   # Core implementation
 │   ├── TADA_GA.py         # Genetic Algorithm for augmentation
-│   ├── run_TADA_experiment.py
-│   └── run_HDP_experiment.py
 ├── README.md
 └── .gitignore
 ```
